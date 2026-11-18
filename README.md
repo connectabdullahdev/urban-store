@@ -155,6 +155,8 @@ users/{uid}/orders/{orderId}
 
 ---
 
-## 📄 License
+<div align="center">
 
-MIT
+Built by **Muhammad Abdullah** · [LinkedIn](https://www.linkedin.com/in/connectabdullahdev) · [GitHub](https://github.com/connectabdullahdev)
+
+</div>
